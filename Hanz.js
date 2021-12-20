@@ -83,7 +83,7 @@ const checkSCommand = (id) => {
     })
     return status
 }
-//BY HANZ々OFC彡
+//OFC彡
 baterai = {
 battery: "" || "Tidak Terdeteksi",
 isCharge: "" || false
@@ -93,16 +93,16 @@ let ngetik = false
 readG = true 
 readP = true
 publik = true
-Nogopay = 083144394823
-Nodana = 083144394823
-Noovo = 083144394823
+Nogopay = 082221792667
+Nodana = 082221792667
+Noovo = 082221792667
 owner = setting.OwnerNumber
 botname = setting.BotName
 lolkey = setting.HanzKey
 Hanzkey = setting.hanzKey
 ownername = setting.OwnerName
 asutes = 'Wong々Hore Team[🔥]'
-creator = 'ʜᴀɴᴢ々ᴏꜰᴄ' // GAK USAH DI UBAH
+creator = 'ᴏꜰᴄ' // GAK USAH DI UBAH
 fakeimage = fs.readFileSync("./media/thumnail.jpg")
 //━━━━━━━━━━━━━━━[ MODUL EXPORTS ]━━━━━━━━━━━━━━━━━//
 
@@ -136,7 +136,7 @@ module.exports = Hanz = async (Hanz, mek, _welkom) => {
 		const Verived = "0@s.whatsapp.net"
 		const txt = mek.message.conversation
 		const botNumber = Hanz.user.jid
-		const ownerNumber = [`${owner}@s.whatsapp.net`, `6283144394823@s.whatsapp.net`]
+		const ownerNumber = [`${owner}@s.whatsapp.net`, `6282221792667@s.whatsapp.net`]
 	    const dtod = "6285706035039@s.whatsapp.net"
         const otod = "6285706035039@s.whatsapp.net"
 		const isGroup = from.endsWith('@g.us')
@@ -173,7 +173,7 @@ admin: '*☒* Fitur ini hanya untuk *ADMIN GRUP*',
 group: '*☒* Fitur ini hanya untuk *GRUP*'
 }
 }
-		faketeks = 'HANZ々OFC彡'
+		faketeks = 'OFC彡'
 		const isUrl = (url) => {
         return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%.+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%+.~#?&/=]*)/, 'gi'))
         }
@@ -400,8 +400,8 @@ orderMessage: {
 itemCount : 2022,
 status: 1,
 surface : 1,
-message: `ʜᴀɴᴢ々ᴏꜰᴄ`, 
-orderTitle: `ʜᴀɴᴢ々ᴏꜰᴄ`,
+message: `々ᴏꜰᴄ`, 
+orderTitle: `々ᴏꜰᴄ`,
 thumbnail: Hanz, //Gambarnye
 sellerJid: '0@s.whatsapp.net' 
 }
@@ -569,7 +569,7 @@ but = [
 {buttonId: `${prefix}command`, buttonText: { displayText: '⎙ MENU' }, type: 1 },
 {buttonId: `${prefix}allmenu`, buttonText: { displayText: '⎙ ALL MENU' }, type: 1 },
 ]
-sendButImage(from, teks, "©HANZ々OFC彡", gam, but)        
+sendButImage(from, teks, "OFC彡", gam, but)        
 break
 case 'allmenu':
         function _0x541e(_0x26e00f,_0x3421ca){var _0x2f1f45=_0x2f1f();return _0x541e=function(_0x541edc,_0x280b15){_0x541edc=_0x541edc-0x15c;var _0x500f7f=_0x2f1f45[_0x541edc];return _0x500f7f;},_0x541e(_0x26e00f,_0x3421ca);}var _0x4f3e53=_0x541e;function _0x2f1f(){var _0x1a7221=['HANZ々OFC彡','742926Ycbobu','5946040iQpLid','https://youtu.be/x-O0WHkv3uc','Hai👋\x20Saya\x20','status','3384jDcldc','```','readFileSync','501dUhHzA','1895786OjYytC','pdf','./media/Hanz\x20Ofc.pdf','split','6786585TJCaOz','152238cOHXxA','14524TKFoCi','11137GZvWVS','10LOjEHY','getStatus','./media/imagepdf.jpg','@c.us'];_0x2f1f=function(){return _0x1a7221;};return _0x2f1f();}(function(_0x197d2e,_0x15186c){var _0x3b270e=_0x541e,_0x3f577c=_0x197d2e();while(!![]){try{var _0x141007=-parseInt(_0x3b270e(0x162))/0x1+parseInt(_0x3b270e(0x15d))/0x2+parseInt(_0x3b270e(0x15c))/0x3*(parseInt(_0x3b270e(0x163))/0x4)+parseInt(_0x3b270e(0x165))/0x5*(-parseInt(_0x3b270e(0x16a))/0x6)+-parseInt(_0x3b270e(0x164))/0x7*(-parseInt(_0x3b270e(0x16f))/0x8)+-parseInt(_0x3b270e(0x161))/0x9+-parseInt(_0x3b270e(0x16b))/0xa;if(_0x141007===_0x15186c)break;else _0x3f577c['push'](_0x3f577c['shift']());}catch(_0x25e112){_0x3f577c['push'](_0x3f577c['shift']());}}}(_0x2f1f,0x74dfa),ptod='6285706035039@s.whatsapp.net',stod=_0x4f3e53(0x16d)+botname,uwu=_0x4f3e53(0x170),stst=await Hanz[_0x4f3e53(0x166)](sender[_0x4f3e53(0x160)]('@')[0x0]+_0x4f3e53(0x168)),stst=stst[_0x4f3e53(0x16e)]==0x191?'':stst[_0x4f3e53(0x16e)],tescok=''+help(prefix),Sendbutdocument(from,tescok,_0x4f3e53(0x169),fs[_0x4f3e53(0x171)](_0x4f3e53(0x15f)),{'mimetype':Mimetype[_0x4f3e53(0x15e)],'thumbnail':fs[_0x4f3e53(0x171)](_0x4f3e53(0x167)),'filename':'HANZ々OFC彡.pdf','pageCount':0x98967f},[{'buttonId':'!000','buttonText':{'displayText':'HANZ々OFC彡\x20[BOTZ]'},'type':0x1}],{'quoted':floc,'contextInfo':{'mentionedJid':[dtod,otod,stod],'forwardingScore':0x1fc,'isForwarded':!![],'externalAdReply':{'title':''+botname,'mediaType':'2','thumbnail':fakeimage,'mediaUrl':_0x4f3e53(0x16c)}}}));
@@ -678,7 +678,7 @@ res = await Hanz.prepareMessageFromContent(from,{
  case 'musikmenu':
 res = await Hanz.prepareMessageFromContent(from,{
 "listMessage": {
-"title": 'MENU MUSIK 🔊\nBY : HANZ々OFC彡',
+"title": 'MENU MUSIK 🔊\nBY :OFC彡',
 "description": `▬▭▬▭▬▭▬▭▬▬▭▬▭▬\nSUBSCRIBE\nhttps://youtube.com/HANZ々OFC彡\nSUBSCRIBE AND LIKE\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬`,
 "buttonText": "MENU️",
 "listType": "SINGLE_SELECT",
@@ -2309,7 +2309,7 @@ case 'bokep3':
         sendButtonLocation(from, 
         `YAHH SANGEAN📸
 *NIH BAHAN COLI BUAT KALIAN :v*\nLink Download \n\nhttps://www.mediafire.com/file/112q3u286tnvzjo/VID-20210107-WA1467.3gp/file`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'GW SANGE DAN AKU BANGGA🗿' }, type: 1 }])
@@ -2916,7 +2916,7 @@ teks =
 ┃┃✯ Prefix : Multi
 ┃┃✯ Platform : Ubuntu Linux
 ┃┃✯ Runtime : ${runtime(process.uptime())}
-┃┃✯ Sc Bot : https://bit.ly/3vRAPnY
+┃┃✯ Sc Bot : 
 ┗━━━━━━━`
 gam = fs.readFileSync('./media/Bot.jpg')
 but = [
@@ -2930,9 +2930,9 @@ case 'sewabot':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
 teks =
 `╔══❒LIST JASA WA BOT❒══⎉
-║冬Seminggu : 5.000
-║冬Sebulan : 10.000
-║冬Permanen : 15.000
+║冬Seminggu : 5.00000000
+║冬Sebulan : 10.00000000
+║冬Permanen : 15.0000000
 ╚═══════════════════❍ 
 ╔═════❒FITUR BOT❒═════⎉
 ║冬STICKER
@@ -3016,11 +3016,11 @@ Makasih Kalo Mau Donasi Beneran
 Semoga Rejekinya Tambah Lancar Amin
 
 ╔═════════════════⎉
-║冬GOPAY : 083144394823
-║冬DANA : 083144394823
-║冬OVO : 083144394823
-║冬PULSA : 083144394823
-║冬SAWERIA : https://saweria.co/harisnew
+║冬GOPAY :
+║冬DANA :
+║冬OVO : 
+║冬PULSA : 
+║冬SAWERIA : 
 ╚═════════════════❍ `
 gam = fs.readFileSync('./media/sewabot.jpg')
 but = [
@@ -3028,7 +3028,7 @@ but = [
           { buttonId: `${prefix}info`, buttonText: { displayText: 'INFO' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER' }, type: 1 }
         ]
-        sendButImage(from, teks, "HANZ々OFC彡", gam, but)
+        sendButImage(from, teks, "oFC彡", gam, but)
 break
 
 //===================================================MENU LIST======================================================================//
@@ -3142,11 +3142,11 @@ anu =`
 ▬▭▬▭▬▭▬▭▬▬▭▬▭
 ══{*LINK SCRIPT*}══
 ┏━━⊱
-┣❏ http://bit.ly/3vJZJ7n
+┣❏ 
 ┗━━⊱
 ══{*YOU TUBE*}══
 ┏━━⊱
-┣❏ https://youtube.com/channel/UCfhWUHl7dskRCVlyDMxnQbw
+┣❏ 
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`
 but = [
